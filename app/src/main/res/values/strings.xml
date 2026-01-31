@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HOTEL</string>
+    <string name="daftar_kamar">Daftar Kamar</string>
+    <string name="search">Pencarian</string>
+    <string name="tambah_tipe">Tambah Tipe Kamar</string>
+
+
+
+
+</resources>
